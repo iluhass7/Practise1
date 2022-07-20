@@ -1,0 +1,4 @@
+git remote add origin git@github.com:iluhass7/Practise1.git
+git branch -M 'main'
+git push -u origin 'main'
+git pull
